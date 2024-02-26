@@ -1,13 +1,13 @@
 
 ### Olá! Eu sou o João Ciz 💀
 
-[![Blogh](https://img.shields.io/website?label=SujeitoProgramador.con&style=for-the-badge&url=https://sujeitoprogramador.com)]()
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
-[![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-ciz-100b962b6/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaovitorciz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaovitorciz/)
 
 ![joaovitorciz GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorciz&show_icons=true&theme=dark)
 
-### Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
