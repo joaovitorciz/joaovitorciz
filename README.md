@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o João Ciz 💀
+### Olá! Eu sou o João Vitor Ciz 💀
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-ciz-100b962b6/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaovitorciz)
