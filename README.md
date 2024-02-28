@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaovitorciz/)
 
 ![joaovitorciz GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorciz&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorciz&layout=compact&langs_count=6&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorciz&layout=compact&langs_count=6&theme=dark)
 
 ## Tecnologias que eu estou aprendendo para uso no meu dia a dia
 
